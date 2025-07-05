@@ -25,13 +25,13 @@ I am a student and tech enthusiast with a passion for software development and a
 
 ### 📋 Programming languages
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,py,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,py,js,java)](https://skillicons.dev)
 
 
 
 ### 💾 Databases
 
-<img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a">
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) and SQL SERVER!!!
 
 ### 📋 Frontend Development
 
