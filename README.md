@@ -25,7 +25,7 @@ I am a student and tech enthusiast with a passion for software development and a
 
 ### 📋 Programming languages
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,py,js,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,cpp,java,py,js,)](https://skillicons.dev)
 
 
 
@@ -39,4 +39,4 @@ I am a student and tech enthusiast with a passion for software development and a
 
 ### 💻 IDEs/Editors
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,sublime)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,eclipse,idea,vscode,sublime)](https://skillicons.dev)
