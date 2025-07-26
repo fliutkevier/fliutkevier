@@ -15,11 +15,17 @@
 </p>
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
-I am a student and tech enthusiast with a passion for software development and a strong interest in both software and hardware. I dedicate my time to building, maintaining, and repairing systems. I enjoy sharing knowledge and helping others learn. Outside of the tech world, I stay active and healthy by going to the gym, and I'm a devoted mate lover.🧉
+I'm a passionate programming technician and backend developer in training, currently completing my degree in Software Development. I have a strong foundation in C#, .NET, SQL Server, and I'm focused on building robust backend systems.
+
+Since I was a teenager, I've been building, maintaining, and repairing computers — combining my love for both hardware and software. I enjoy sharing knowledge, helping others learn, and constantly improving my skills through new challenges and projects.
+
+When I'm not coding, you'll find me training at the gym 🏋️ or enjoying a good mate 🧉.
 
 <br>
 
+🎯 Currently learning: REST APIs, ASP.NET Core & backend architecture.
 
+<br>
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
