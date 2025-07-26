@@ -31,7 +31,10 @@ I am a student and tech enthusiast with a passion for software development and a
 
 ### 💾 Databases
 
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) and SQL SERVER!!!
+![MySQL](https://img.shields.io/badge/MySQL-01607c?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+
 
 ### 📋 Frontend Development
 
